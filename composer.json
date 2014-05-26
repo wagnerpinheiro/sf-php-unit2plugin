@@ -1,5 +1,5 @@
 {
-    "name": "wagnerpinheiro/sfPHPUnit2Plugin",
+    "name": "wagnerpinheiro/sf-php-unit2plugin",
     "description": "Unofficial git copy of symfony plugin sfPHPUnit2Plugin",
     "require": {
         "php": ">=5.3.0",
